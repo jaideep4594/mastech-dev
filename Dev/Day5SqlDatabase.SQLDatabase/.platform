@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SQLDatabase",
+    "displayName": "Day5SqlDatabase"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "faa16aad-1a27-8e47-4f19-b71f7adc124a"
+  }
+}
